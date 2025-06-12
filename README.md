@@ -56,3 +56,14 @@ Customers = DISTINCTCOUNT(Orders[Customer ID])
 Analysis results are summarised as follows:
 The company profits have been steadily increasing over the past years with an obvious value in 2017. Product categoery Technology is the best performing in terms of profits while sub-category phones as highest revenue by segment.
 Product category Furniture should be focused for promotion and marketing.
+
+### Results 
+
+
+
+### Recommendations
+
+
+
+
+### Limitations
